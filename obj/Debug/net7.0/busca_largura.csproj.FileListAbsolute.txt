@@ -1,0 +1,14 @@
+C:\Users\Programming\Desktop\busca_largura\bin\Debug\net7.0\busca_largura.exe
+C:\Users\Programming\Desktop\busca_largura\bin\Debug\net7.0\busca_largura.deps.json
+C:\Users\Programming\Desktop\busca_largura\bin\Debug\net7.0\busca_largura.runtimeconfig.json
+C:\Users\Programming\Desktop\busca_largura\bin\Debug\net7.0\busca_largura.dll
+C:\Users\Programming\Desktop\busca_largura\bin\Debug\net7.0\busca_largura.pdb
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.AssemblyInfoInputs.cache
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.AssemblyInfo.cs
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.csproj.CoreCompileInputs.cache
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.dll
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\refint\busca_largura.dll
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.pdb
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\busca_largura.genruntimeconfig.cache
+C:\Users\Programming\Desktop\busca_largura\obj\Debug\net7.0\ref\busca_largura.dll
